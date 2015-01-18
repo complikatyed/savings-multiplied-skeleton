@@ -1,18 +1,11 @@
 @import "variables";
 @import "headings";
 
-// .page-container {
-// 	max-width: 1315px;
-// 	min-width: 615px; 
-// 	margin: auto;
-// 	background-color: white;
-// 	border: 1px solid black; 
-// }
 
 html {
 
 	background-color: #ADF4F2;
-	height: 100%
+    height: 100%;
 
 }
 
@@ -119,7 +112,7 @@ ul {
 	background-color: #F4CAD2;
 	text-align: center;
 	font-weight: bold;
-	padding:10px 0;
+	padding:19px 0;
 	height: 42px;
 
 	ul {
@@ -241,14 +234,17 @@ ul {
 
 		.nav-container {
 			
-			height: 100%;
+		
 
 			ul {
 				margin-bottom: 10px;
+
+
 			}
 
 			input {
-				margin-top: 10px;
+				margin:-3px 0 5px;
+
 			}
 		}
 
@@ -290,14 +286,11 @@ ul {
 			}
 		}
 	}
-
-	.baby-images {
-		//display: none;
-	}
-
 }
 
-@media screen and(max-width: 550px){
+
+
+@media screen and(max-width: 555px){
 	
 	.header-main {
 		.header-logo {
