@@ -5,7 +5,7 @@
 html {
 
 	background-color: #ADF4F2;
-    height: 100%;
+   
 
 }
 
@@ -232,21 +232,6 @@ ul {
 
 		}
 
-		.nav-container {
-			
-		
-
-			ul {
-				margin-bottom: 10px;
-
-
-			}
-
-			input {
-				margin:-3px 0 5px;
-
-			}
-		}
 
 		.content-container {
 
@@ -298,6 +283,10 @@ ul {
 				width: 80%;
 			}
 		}
+	}
+
+	.nav-container ul {
+		margin-top: -7px;
 	}
 
 	.baby-images {
