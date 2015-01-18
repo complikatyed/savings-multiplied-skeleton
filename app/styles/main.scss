@@ -50,6 +50,7 @@ ul {
 	background-color: white;
 	border-radius: 30px 30px 0 0;
 	width: 100%;
+	 
 
 	li {
 		display: inline-block;
@@ -311,7 +312,13 @@ ul {
 
 
 
+
 /* Search Page Specific Styles */
+
+// .header-main.index-min-width {
+// 	min-width: 570px;
+// }
+
 
 .filter-container {
 	background-color: #EDF9D3;
@@ -321,6 +328,8 @@ ul {
 	border-radius: 30px;
 	//text-align: center;
 	color: darken(#EDF9D3, 50%);
+
+
 
 	h6 {
 		border-bottom: 2px solid darken(#EDF9D3, 50%);
@@ -447,7 +456,6 @@ ul {
 	}
 
 }
-
 
 
 
